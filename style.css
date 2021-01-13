@@ -41,3 +41,21 @@ p {
     font-size: 1em;
     font-weight: bold;
 }
+
+.last {
+    width: 30rem;
+    margin-top: 18rem;
+    margin-left: 5rem;
+    transform: skew(10deg);
+}
+
+h1 {
+    font-size: 6rem;
+    font-weight: 400;
+    margin-left: 23rem;
+}
+
+h2 {
+    font-size: 2em;
+    width: 15rem;
+}

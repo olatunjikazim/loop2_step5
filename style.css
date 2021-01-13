@@ -25,3 +25,19 @@ body {
     opacity: 0.9;
     transform: skewX(-10deg);
 }
+
+.read {
+    width: 4.5rem;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 23rem;
+    margin-top: 1rem;
+    transform: skew(10deg);
+}
+
+p {
+    font-size: 1em;
+    font-weight: bold;
+}
